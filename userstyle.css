@@ -13,7 +13,7 @@
     --red: #fb4934;
     --red-dark: #cc241d;
     --green: #b8bb26;
-    --green-dark: #6ebb26;;
+    --green-dark: #6b8c31;
     --yellow:#fabd2f;
     --yellow-dark: #d79921;
     --blue: #83a598;
@@ -44,9 +44,9 @@
     --font-weight-base: 400;
     --font-weight-base-extra: 500;
     --font-weight-bold: 600;
-    --font-title: "Work Sans";
-    --font-sans: "Work Sans";
-    --font-mono: "Cascadia Code";
+    --font-title: "Verdana";
+    --font-sans: "Verdana";
+    --font-mono: "Input Mono";
     --primary: var(--yellow);
     --secondary: var(--yellow);
     --font-line-height: 1.4em;
@@ -130,7 +130,7 @@ ul ul {
 }
 
 hr {
-    padding: var(--base-size-24) !important;
+    padding: var(--base-size-8) !important;
 }
 
 blockquote {
